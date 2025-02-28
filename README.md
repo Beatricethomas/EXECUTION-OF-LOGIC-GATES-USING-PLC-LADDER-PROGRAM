@@ -168,8 +168,11 @@ NAND GATE
 
 
 XOR GATE
+![Screenshot 2025-02-28 091030](https://github.com/user-attachments/assets/a7cbdfe8-6cac-4c4b-bf95-fd8048df475c)
 
+![Screenshot 2025-02-28 091050](https://github.com/user-attachments/assets/de73df54-29c5-43bd-94a6-3e7271b3d400)
 
+![Screenshot 2025-02-28 091121](https://github.com/user-attachments/assets/f6543ae6-34fe-4e19-82ed-e1d201b792af)
 
 #Results:
 The ladder logic programs for each logic gate were successfully implemented and simulated.
